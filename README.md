@@ -5,6 +5,8 @@ Web Application for Architects, Engineers, and All Other Building-Fanatics.
 
 ![home](../imgs/CAB_image.png)
 
+![index](../imgs/CAT_ind.png)
+
 ## Functionalities
 1. Explore Buildings around the World
 - Check out brief information on the buildings of your interest
