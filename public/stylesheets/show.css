@@ -7,8 +7,9 @@
     filter: invert(100%);
 } */
 #factsCarousel {
-    font-family: 'Tangerine', cursive;
-    font-size: 2em;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 1.25em;
 
     color:  beige;
 }
@@ -22,6 +23,11 @@
     margin: auto;
 }
 
+.card-title {
+    font-weight:900;
+    font-style: bold;
+    font-size:1.5rem;
+}
 .carousel-item img {
     max-width: 100%;
     object-fit: contain;

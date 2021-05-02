@@ -5,6 +5,15 @@ h5{
     font-weight: 700;
 }
 
+input {
+    border-radius:5px;
+    border: 0.5px solid lightgray;
+}
+
+.card:hover {
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    transform:  translateY(-0.2rem);
+}
 #masonry {
     column-count: 3;
     column-gap: 15px;
