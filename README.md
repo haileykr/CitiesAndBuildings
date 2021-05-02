@@ -20,7 +20,7 @@ Web Application for Architects, Engineers, and All Other Building-Fanatics.
 - Filter by building name, *(to be completed from here)*height, architect, and engineer.
 
 ## Tech Stack
-![tech_stack](../imgs/CAB_tech_stack.png)
+![tech_stack](./public/imgs/CAB_tech_stack.png)
 
 #### Frontend
 - Built on HTML, CSS, and JavaScript
