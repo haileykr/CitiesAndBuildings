@@ -1,19 +1,20 @@
 # Cities And Buildings
 건축가, 건축공학자, 그리고 모든 빌딩 팬들을 위한 웹 앱. &#127751; &#127747; 
 
-[citiesandbuildings.herokuapp.com](https://citiesandbuildings.herokuapp.com){:target="_blank"}
+[citiesandbuildings.herokuapp.com](https://citiesandbuildings.herokuapp.com)
 
 Read in  [English](https://github.com/haileykr/CitiesAndBuildings/blob/master/README.md)
 
-![home](/img/posts/CAB_image.png)
 
-![index](/img/posts/CAB_ind.png)
+![home](./public/imgs/CAB_image.png)
+
+![index](./public/imgs/CAB_ind.png)
 
 ## Functionalities
 1. 세계 각지의 빌딩들을 탐험해보세요!
 - 관심 있는 빌딩에 대한 정보를 알아보세요.
 - 여러분이 알고 있는 재밌는 정보도 추가해보세요.
-
+`
 2. 당신의 빌딩을 추가하기 위해 멤버가 되어보세요!
 - 회원가입 후에는, 관심있는 빌딩을 추가할수도, 수정 및 삭제할수도 있어요.
 
@@ -21,7 +22,7 @@ Read in  [English](https://github.com/haileykr/CitiesAndBuildings/blob/master/RE
 - 빌딩 이름, *(추가 예정)*높이, 건축가, 그리고 건축공학자 이름으로 빌딩을 검색해보세요.
 
 ## Tech Stack
-![tech_stack](/img/posts/CAB_tech_stack.png)
+![tech_stack](./public/imgs/CAB_tech_stack.png)
 
 #### Front-end
 - HTML, CSS, 그리고 JavaScript (EJS)로 개발되었습니다.
