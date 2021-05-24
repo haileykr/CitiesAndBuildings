@@ -3,6 +3,8 @@ Web Application for Architects, Engineers, and All Other Building-Fanatics.
 
 [citiesandbuildings.herokuapp.com](https://citiesandbuildings.herokuapp.com)
 
+Read in [한국어](https://github.com/haileykr/CitiesAndBuildings/blob/master/README.ko.md)
+
 
 ![home](./public/imgs/CAB_image.png)
 
